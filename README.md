@@ -56,7 +56,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 First, modify the file next.config.js with the correct base path where you plan to deploy the app.
 
-Next, push the all the code in this repository to the directory above.
+Next, push all the code in this repository to the directory above.
 
 Then, follow the steps under the section "Getting Started" to install all needed dependencies, or not at all, since we are docker-containerizing the app.
 
