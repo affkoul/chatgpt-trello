@@ -33,6 +33,8 @@ This app uses cloud.appwrite.io for back-end services.
 
 Follow the youtube tutorial below from "56:10 Implementing Appwrite Cloud" to the end of "1:06:31 Implementing the Appwrite Cloud Database" to set up your back-end.
 
+[Let’s build TRELLO 2.0 with REACT! (Next.js 13.4, GPT-4, Drag & Drop, Zustand, Appwrite Cloud, TS)](https://www.youtube.com/live/TI2AvfCj5oM?feature=share) 
+
 Note: the information needed for the configuration in the .env file will be found in your "cloud.appwrite.io" once you complete the step above.
 
 ## Learn More
@@ -72,7 +74,9 @@ docker-compose up
 
 Bonus: 
 
-Follow the youtube tutorial below from "24:08 till the end for support on how to get users access your app without having to type in the port number, just like every production app will work.
+Follow the youtube tutorial below from "24:08 till the end for support on how to get users access your app without having to type in the port number, just like every production app should work.
+
+[How to Deploy a Next.js Application on a VPS Server - Next.js + Headless WordPress [ part 15]](https://youtu.be/kHL1FGg0XDA) 
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
 
